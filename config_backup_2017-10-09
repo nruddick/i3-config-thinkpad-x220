@@ -185,11 +185,7 @@ exec_always --no-startup-id compton
 
 # Wallpaper
 
-
-
-exec_always feh --bg-scale /home/nathan/Pictures/nodes.jpg
-#exec_always feh --bg-scale /home/nathan/Pictures/homestead-dawn.jpg
-#exec_always feh --bg-scale /home/nathan/Pictures/star-background-1.jpg
+exec_always feh --bg-scale /home/nathan/Pictures/star-background-1.jpg
 #exec_always feh --bg-max /home/nathan/Pictures/blue-victorian-steampunk.jpg
 # exec_always feh --bg-scale /home/nathan/Pictures/wallpaper/icylakesunrise.jpg
 #exec_always feh --bg-scale /home/nathan/Pictures/beachsunset.jpg
